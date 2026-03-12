@@ -49,4 +49,4 @@ No install needed. Just open `BLITZ Game.html` in any browser.
 
 ---
 
-*Made with ❤️ by Phoenix & Dad*
+*Made with ❤️ by the firebird 🐦‍🔥*
