@@ -1,6 +1,6 @@
 # BLITZ 🎮
 
-A fast-paced reaction click game built by Phoenix & Dad.
+A fast-paced reaction click game.
 
 🕹️ **[Play it here](https://monumental-taiyaki-f2ddb3.netlify.app)**
 
